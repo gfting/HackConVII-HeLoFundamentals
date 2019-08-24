@@ -1,6 +1,8 @@
 # HackConVII-HeLoFundamentals
 
-Launch-readiness document supporting hackathon organizers to ensure all potential issues are taken care of.
+This is a launch-readiness checklist supporting hackathon organizers to ensure all potential issues are taken care of. We hope that this can form a basis for everyone to contribute and add their own items, so we can all better keep track of the million-and-one things that you need to take care of before your hackathon. Run through this checklist before your event to ensure that everything is taken care of!
+
+Additionally, here's the link to our slides from HackCon: https://docs.google.com/presentation/d/1Q7bSm09DDylM4rEZ3U3i1zcoclFCJPd8onKXgKuMscI/edit?usp=sharing
 
 ## Contributing
 
