@@ -57,53 +57,6 @@ Meals/Snacks:
 
 # Other Points to Note
 
-Meals/Snacks:
-
-- Always overestimate quantities rather than underestimate since extra food can always be dealt with
-- Consider giving any extra food to a food bank
-- Try and think about the environmental impact your event will have while purchasing plates/cups
-- Don’t forget about the beverages - ensure you have variety and a way to keep them chilled if possible
-- Make sure you have coffee and lots of it
-- Always expect people to get hungry faster than you think so plan for frequent snack breaks
-- Make sure that you have snacks of a large variety such as fruit, chips, pretzels, etc. to make sure that everyone has an option
-- Have a meal distribution plan especially for large groups and anticipate the lines and plan on how you will control them
-- Make sure that the people will dietary restrictions get their food first or separately since they have no other options
-- Have lots of contingency plans and talk to restaurants to try and get a time estimate in advance
-- Make sure to ask the caterers about the ingredients to determine allergy information and make no assumptions
-- If possible make your highest turn out meal a boxed meal to relieve some pressure.
-- Random food related things you will need
-  - Paper towels (LOTS)
-  - utensils - spoons/knives/forks/soup spoons(maybe)
-  - serving spoons
-  - dish heat/ canned heat
-  - cups for drinks
-  - extra food pans to store food after
-  - gloves for serving
-  - foil to cover food if needed
-  - condiments
-  - signs to indicate which dish is what and possible allergens it has in it
-  - tables for serving
-  - stirrers for coffee
-  - Clorox wipes
-    Buses:
-- Make sure to start as early as possible
-- Make sure your pick up and drop off locations are exact locations so there is no confusion
-- Ask about additional charges like gratuity and parking fees before estimating cost because bus companies will not tell you about that up front
-- try and make use of price matching
-  Other potential amenities:
-- Provide sleeping bags if possible or some alternative
-- Provide a dark room for people to nap in without disturbance
-- Have an option for people to shower if possible
-- Have first aid kits on site
-- Have a clear cut plan that the whole organizing team is aware of for any natural disasters or emergencies
-- Provide security if possible
-- Make sure that your wifi network can take the pressure of such large number of people on site
-- Provide feminine hygiene products in your bathrooms
-- make sure you have enough toilet paper and have a plumber and electrician’s contact information on hand
-- Provide toothbrushes, toothpaste, mouth wash, and deodorant
-- If you have Volunteers, make sure to have a set plan for their tasks because you may not be available to assign them during the event
-- If you have travel reimbursement - plan this process well in advance with your administration and have the onsite work for this fully planned out in advance
-
 ## Logistics
 
 - [ ] Meals and Snacks (diff between them and why they are independently important)
